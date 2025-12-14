@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Menu, X, Wallet, ChevronDown } from 'lucide-react';
-import { BossLogo } from './BossMascot';
 import { WalletModal } from './WalletModal';
 import { ProfileModal } from './ProfileModal';
 
@@ -151,7 +150,12 @@ export const Navbar: React.FC = () => {
         {/* Logo */}
         <a href="#" className="flex items-center gap-2 group">
           <div className="w-10 h-10 group-hover:rotate-12 transition-transform duration-300">
-            <BossLogo className="w-full h-full" />
+            <img
+                   src="/logobnb.png"
+                   alt="Be Normal Boss Logo"
+                   className="w-full h-full object-contain"
+            />
+
           </div>
           <span className="font-bold text-xl tracking-tight hidden sm:block">BE NORMAL <span className="text-bnb-yellow">BOSS</span></span>
           <span className="font-bold text-xl tracking-tight sm:hidden text-bnb-yellow">BNB</span>
