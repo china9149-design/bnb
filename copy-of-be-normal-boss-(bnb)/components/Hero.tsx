@@ -33,7 +33,7 @@ export const Hero: React.FC = () => {
             className="mb-6 inline-block"
             >
             <a 
-                href="https://four.meme" 
+                href="https://four.meme/token/0x7e151cef092ec9870d020cb490e2b245c4174444" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group px-6 py-2 rounded-full bg-[#1E2329]/80 backdrop-blur border border-bnb-yellow/30 hover:border-bnb-yellow text-white text-sm font-semibold tracking-wider uppercase transition-all flex items-center gap-2 shadow-[0_0_20px_rgba(240,185,11,0.1)] hover:shadow-[0_0_30px_rgba(240,185,11,0.3)]"
