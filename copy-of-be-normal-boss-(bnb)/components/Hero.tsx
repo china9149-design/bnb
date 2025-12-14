@@ -33,7 +33,7 @@ export const Hero: React.FC = () => {
             className="mb-6 inline-block"
             >
             <a 
-                href="https://four.meme/token/0x7e151cef092ec9870d020cb490e2b245c4174444" 
+                href="https://four.meme" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group px-6 py-2 rounded-full bg-[#1E2329]/80 backdrop-blur border border-bnb-yellow/30 hover:border-bnb-yellow text-white text-sm font-semibold tracking-wider uppercase transition-all flex items-center gap-2 shadow-[0_0_20px_rgba(240,185,11,0.1)] hover:shadow-[0_0_30px_rgba(240,185,11,0.3)]"
@@ -87,7 +87,7 @@ export const Hero: React.FC = () => {
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
             >
             <a
-                href="https://four.meme/token/0x7e151cef092ec9870d020cb490e2b245c4174444"
+                href="https://four.meme"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group px-8 py-4 bg-bnb-yellow text-bnb-black font-bold text-lg rounded-xl hover:bg-white transition-all duration-300 flex items-center gap-2 min-w-[200px] justify-center shadow-[0_0_20px_rgba(240,185,11,0.4)] hover:shadow-[0_0_40px_rgba(240,185,11,0.6)] hover:-translate-y-1"
@@ -96,7 +96,7 @@ export const Hero: React.FC = () => {
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </a>
             <a
-                href="https://bscscan.com/token/0x7e151cef092ec9870d020cb490e2b245c4174444"
+                href="https://bscscan.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group px-8 py-4 bg-[#1E2329]/50 backdrop-blur border-2 border-bnb-dark hover:border-bnb-yellow text-white font-bold text-lg rounded-xl transition-all duration-300 flex items-center gap-2 min-w-[200px] justify-center hover:-translate-y-1"
