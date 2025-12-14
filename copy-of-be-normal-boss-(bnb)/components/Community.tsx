@@ -31,7 +31,7 @@ export const Community: React.FC = () => {
               Twitter
             </a>
             <a 
-              href="https://telegram.org" 
+              href="https://t.me/BinanceExchange" 
               target="_blank" 
               rel="noreferrer"
               className="flex items-center justify-center gap-3 px-8 py-5 bg-[#229ED9] text-white rounded-xl font-bold text-lg hover:brightness-110 hover:scale-105 transition-all shadow-lg shadow-[#229ED9]/20"
@@ -40,7 +40,7 @@ export const Community: React.FC = () => {
               Telegram
             </a>
             <a 
-              href="https://discord.com" 
+              href="https://discord.com/invite/bnbchain" 
               target="_blank" 
               rel="noreferrer"
               className="flex items-center justify-center gap-3 px-8 py-5 bg-[#5865F2] text-white rounded-xl font-bold text-lg hover:brightness-110 hover:scale-105 transition-all shadow-lg shadow-[#5865F2]/20"
