@@ -22,7 +22,7 @@ export const Community: React.FC = () => {
 
           <div className="flex flex-col sm:flex-row justify-center gap-6">
             <a 
-              href="https://twitter.com" 
+              href="https://x.com/Be_Bormal_Boss" 
               target="_blank" 
               rel="noreferrer"
               className="flex items-center justify-center gap-3 px-8 py-5 bg-black text-white rounded-xl font-bold text-lg hover:bg-gray-900 hover:scale-105 transition-all border border-gray-800"
